@@ -1,5 +1,5 @@
 Package: panppbio
-Title: What the Package Does (One Line, Title Case)
+Title: Gather data from BOLD, NCBI, GBIF and IUCN.
 Version: 0.0.0.9000
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
