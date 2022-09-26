@@ -6,8 +6,6 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of panppbio is to …
-
 -   Some routine ideas:
     -   Gather species list
         -   Amphibia
