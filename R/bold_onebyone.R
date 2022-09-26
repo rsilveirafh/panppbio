@@ -40,6 +40,7 @@ bold_onebyone <- function(data, speciesvar) {
 	}
 
 	return(tmp)
+
 }
 
 
